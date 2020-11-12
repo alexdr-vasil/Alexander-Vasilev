@@ -119,3 +119,4 @@ finally:
 GPIO.output (17,0)
 # Очистка всех выходов на GPIO
 GPIO.cleanup()
+#ВСЕГОХОРОШЕГО
